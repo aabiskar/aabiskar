@@ -1,4 +1,6 @@
 ### Hi there 👋:pray:
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=aabiskar&count_private=true" />
+<img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabiskar" />
 
 <!--
 **aabiskar/aabiskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
